@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+About Me
+---
+👩🏻‍💻 Pursuing MS in Computer Science at USC
+
+![Suji's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujikim6&count_private=true&theme=buefy&show_icons=true&hide=stars,contribs)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSujiKim6&count_bg=%23E2B0F3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
 <!--
 **SujiKim6/SujiKim6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
