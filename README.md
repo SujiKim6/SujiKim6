@@ -1,8 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
-About Me
----
-👩🏻‍💻 Pursuing MS in Computer Science at USC
+### About Suji
+- 👩🏻‍💻 Pursuing MS in Computer Science at USC
+- 🎓 BE in Computer Science and Engineering at SWU
 
 ![Suji's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujikim6&count_private=true&theme=buefy&show_icons=true&hide=stars,contribs)
 
